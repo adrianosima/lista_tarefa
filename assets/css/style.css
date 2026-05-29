@@ -48,7 +48,9 @@ button.add {
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     border-width: 1px;
-    background-color: green;
+    background: green url('../photo/add_2_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png');
+    background-repeat: no-repeat;
+    background-position: center;
     color: white;
     font-weight: bold;
     font-size: 20px;
