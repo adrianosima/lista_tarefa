@@ -24,6 +24,8 @@ function addTarefa() {
             section2.innerHTML += novoItem
             input.value = ''
             input.focus()
+    }else{
+        alert('Escreva alguma tarefa!.')
     }
 }
 
